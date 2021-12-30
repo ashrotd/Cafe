@@ -1,1 +1,1 @@
-web: gunicorn Nicecafe.wsgi
+web: gunicorn Nicecafe.wsgi 
